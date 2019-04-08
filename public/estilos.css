@@ -1,0 +1,30 @@
+body{
+ font-family: 'Roboto', 'sans-serif';
+ margin: 0;
+ padding: 0; 
+ list-style: none;   
+}
+
+li{
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    background-color: #c4c4c4;
+    padding: 8px;
+    font-size: 24px;
+    margin: 3px;
+}
+
+h3{
+    margin: 3px;
+}
+
+p{
+  text-align: center;
+}
+
